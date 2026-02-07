@@ -2,50 +2,53 @@
 
 I build GenAI systems and high-performance backend services.
 
-Currently working on:
-- 🧠 RAG pipelines & agent-based AI workflows  
-- ⚡ Designing high-concurrency APIs  
-- 🗄️ Optimizing PostgreSQL queries & reducing latency  
-- 🔄 Async-first backend architectures  
-- 🚀 Productionizing AI systems (not just demos)
+Right now I’m focused on:
+- 🧠 Building RAG pipelines and agent-based AI workflows
+- ⚡ Designing high-concurrency APIs
+- 🗄️ Optimizing PostgreSQL queries and reducing latency
+- 🔄 Writing async-first backend systems
+- 🚀 Turning LLM prototypes into production-ready systems
 
-I care about performance, clean service boundaries, and systems that survive real-world load.
+I enjoy working at the intersection of AI systems and backend engineering — where performance, reliability, and clean architecture actually matter.
 
 ---
 
-## 🛠 Tech I Use Regularly
+## 🛠 Tech I Work With
 
 **Backend**
-Python (FastAPI), Node.js  
-PostgreSQL, Redis  
-WebSockets, Kafka  
-AWS  
+- Python (FastAPI)
+- Node.js
+- PostgreSQL
+- Redis
+- WebSockets / Event-driven systems
+- AWS
 
 **AI**
-RAG pipelines  
-Agent orchestration  
-LLM integration  
+- RAG pipelines
+- Agent orchestration
+- LLM integration & structured outputs
 
 **Frontend (when needed)**
-React  
+- React
 
 ---
 
-## 🔬 What I Think About Often
+## 🔬 Things I Think About Often
 
 - Concurrency & event loops  
 - Query plans & indexing  
 - Caching strategies  
 - Latency bottlenecks  
 - System design under load  
-- Making AI outputs structured and reliable  
+- Making AI systems deterministic and reliable  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilhegde989&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilhegde989&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilhegde989&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilhegde989&layout=compact&langs_count=6&cache_seconds=1800)
 
 ---
 
@@ -53,7 +56,6 @@ React
 
 👉 https://nikhilhegde.com
 👉 https://x.com/nikhilhegde989
-
 ---
 
-If you're into backend systems, AI infrastructure, or performance engineering , we’ll probably get along.
+If you're into backend systems, AI infrastructure, or performance engineering — we’ll probably get along.
