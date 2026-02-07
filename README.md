@@ -44,14 +44,6 @@ I enjoy working at the intersection of AI systems and backend engineering — wh
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhilhegde989&theme=tokyonight&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Nikhilhegde989&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
-
 ## 🌐 Connect
 
 👉 [nikhilhegde.com](https://nikhilhegde.com)  
