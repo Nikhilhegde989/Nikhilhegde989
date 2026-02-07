@@ -1,8 +1,8 @@
-# Hey, I’m Nikhil 👋
+# Hey, I'm Nikhil 👋
 
 I build GenAI systems and high-performance backend services.
 
-Right now I’m focused on:
+Right now I'm focused on:
 - 🧠 Building RAG pipelines and agent-based AI workflows
 - ⚡ Designing high-concurrency APIs
 - 🗄️ Optimizing PostgreSQL queries and reducing latency
@@ -46,16 +46,17 @@ I enjoy working at the intersection of AI systems and backend engineering — wh
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Nikhilhegde989&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhilhegde989&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilhegde989&layout=compact&theme=tokyonight&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Nikhilhegde989&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect
 
-👉 https://nikhilhegde.com
-👉 https://x.com/nikhilhegde989
+👉 [nikhilhegde.com](https://nikhilhegde.com)  
+👉 [@nikhilhegde989](https://x.com/nikhilhegde989)
+
 ---
 
-If you're into backend systems, AI infrastructure, or performance engineering — we’ll probably get along.
+If you're into backend systems, AI infrastructure, or performance engineering — we'll probably get along.
