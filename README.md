@@ -46,9 +46,9 @@ I enjoy working at the intersection of AI systems and backend engineering — wh
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilhegde989&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=Nikhilhegde989&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilhegde989&layout=compact&langs_count=6&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilhegde989&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
