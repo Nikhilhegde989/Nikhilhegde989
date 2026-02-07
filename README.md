@@ -44,15 +44,16 @@ React
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilhegde989&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilhegde989&layout=compact)
 
 ---
 
 ## 🌐 Portfolio
 
 👉 https://nikhilhegde.com
+👉 https://x.com/nikhilhegde989
 
 ---
 
-If you're into backend systems, AI infrastructure, or performance engineering — we’ll probably get along.
+If you're into backend systems, AI infrastructure, or performance engineering , we’ll probably get along.
