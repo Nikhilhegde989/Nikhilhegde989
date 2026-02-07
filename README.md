@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hey, I’m Nikhil 👋
 
-<!--
-**Nikhilhegde989/Nikhilhegde989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build GenAI systems and high-performance backend services.
 
-Here are some ideas to get you started:
+Currently working on:
+- 🧠 RAG pipelines & agent-based AI workflows  
+- ⚡ Designing high-concurrency APIs  
+- 🗄️ Optimizing PostgreSQL queries & reducing latency  
+- 🔄 Async-first backend architectures  
+- 🚀 Productionizing AI systems (not just demos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about performance, clean service boundaries, and systems that survive real-world load.
+
+---
+
+## 🛠 Tech I Use Regularly
+
+**Backend**
+Python (FastAPI), Node.js  
+PostgreSQL, Redis  
+WebSockets, Kafka  
+AWS  
+
+**AI**
+RAG pipelines  
+Agent orchestration  
+LLM integration  
+
+**Frontend (when needed)**
+React  
+
+---
+
+## 🔬 What I Think About Often
+
+- Concurrency & event loops  
+- Query plans & indexing  
+- Caching strategies  
+- Latency bottlenecks  
+- System design under load  
+- Making AI outputs structured and reliable  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Portfolio
+
+👉 https://nikhilhegde.com
+
+---
+
+If you're into backend systems, AI infrastructure, or performance engineering — we’ll probably get along.
